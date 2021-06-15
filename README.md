@@ -11,7 +11,7 @@ My GitHub: [github](https://github.com/UrielBm)
 ## Demo
 
 El demo de la Aplicación podras encontrarlo en la siguiente dirección:
-**Dirección del Link**: [Link-Demo](https://graphreact.vercel.app/)
+**Dirección del Link**: [Link-Demo](https://front-ticket-app.vercel.app/)
 
 ## Correr desde tu máquina
 
